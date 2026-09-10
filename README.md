@@ -1,3 +1,7 @@
+<img width="1500" height="743" alt="image" src="https://github.com/user-attachments/assets/ea0d6a6d-b739-4fb4-9459-e96d32570f8a" />
+<img width="1500" height="742" alt="image" src="https://github.com/user-attachments/assets/c7e4dc09-4587-42e7-929e-4a968eeff4dc" />
+
+
 # Rotating Navigation Animation
 
 Bu proje, sayfa açıldığında veya menü butonuna tıklandığında **yan menünün döner animasyonla açılıp kapanmasını** sağlar.  
@@ -17,4 +21,4 @@ Kullanıcı hamburger menü ikonuna bastığında içerik alanı döner ve sideb
 ## 📂 Kurulum ve Çalıştırma
 1. Bu repoyu bilgisayarına klonla:
    ```bash
-   git clone https://github.com/kullaniciadi/rotating-navigation.git
+   git clone https://github.com/AliKaan55/RotatingNavigation.git
